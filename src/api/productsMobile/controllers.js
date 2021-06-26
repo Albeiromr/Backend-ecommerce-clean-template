@@ -10,7 +10,7 @@ function getProductsByFamily(request, response) {
       response.send(results);
     }
   );
-}
+};
 
 module.exports = {
   getProductsByFamily,
