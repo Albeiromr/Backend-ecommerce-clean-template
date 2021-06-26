@@ -1,5 +1,5 @@
 function getProductsByFamily(request, response) {
-    response.send("desde el enpoint para desktop");
+    response.send("desde el enpoint para mobiles");
 };
 
 module.exports = {
